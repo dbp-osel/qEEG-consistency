@@ -1,3 +1,11 @@
+
+o	This repository has been archived and is no longer maintained.
+
+o	The code is provided for historical reference and may contain unpatched or unknown vulnerabilities.
+
+o	It should not be used in production systems.
+
+
 # qEEG Consistency
 > Software implementing methods from: David O. Nahmias, Kimberly L. Kontson, David A. Soltysik, and F. Civillico, Eugene. Consistency of quantitative electroencephalography features in a large clinical data set. Journal of Neural Engineering, 16(066044), 2019.
 
